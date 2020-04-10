@@ -1,3 +1,3 @@
 project(practice)
 
-add_executable(run src/two_sum.cpp)
+add_executable(run src/valid_sudoku.cpp)
