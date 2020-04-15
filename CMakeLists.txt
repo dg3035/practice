@@ -1,3 +1,3 @@
 project(practice)
 
-add_executable(run src/valid_sudoku.cpp)
+add_executable(run src/atoi.cpp)

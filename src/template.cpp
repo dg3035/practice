@@ -16,5 +16,6 @@ int main(){
     assert(1==1);
 
     printf("success\n\n");
+	system("pause");
     return EXIT_SUCCESS;
 }
